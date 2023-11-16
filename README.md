@@ -15,7 +15,7 @@ Bienvenue sur **MinHub**.
 **XTRE** Est un ensemble d'outils payants permettant de faire énormément de choses.
 
 ### XDoS 
-**XDoS** est un logiciel de DDoS surpuissant qui envoie 30000 requètes par secondes sur 30000 ports différents. Il supporte maintenant le TCP au lieu du UDP.
+**XDoS** est un logiciel de DDoS surpuissant qui envoie ~1000 requètes par secondes sur 30000 ports différents. Il supporte maintenant le TCP au lieu du UDP.
 
 ### MiNoTor :
 **MiNoTor** est un navigateur comme les autres mais ayant comme particularité d'être très simple, de na pas consommer beaucoup se ram, d'avoir une belle interface, et surtout, d'afficher l'ip du site qu'on est en train de visiter. Son interface est personnalisable, vous pouvez choisir l'emplacement des boutons, etc... Vous pouvez aussi écrire "xgen" ou "minotor://xgen" pour avoir accès à XGEN Ultimate.
